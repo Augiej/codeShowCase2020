@@ -1,0 +1,1 @@
+This Code first reads in a graph from a text file specified in the main. It then does a recursive depth first search to find strongly connected components in the graph.

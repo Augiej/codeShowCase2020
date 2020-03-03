@@ -1,0 +1,8 @@
+total 20
+-rwxrwxrwx 1 augie augie     0 Mar  1 14:27 foo.txt
+-rwxrwxrwx 1 augie augie  2830 Mar  1 14:27 minishell.c
+-rwxrwxrwx 1 augie augie 13184 Mar  1 14:27 run
+total 20
+-rwxrwxrwx 1 augie augie     0 Mar  1 14:27 foo.txt
+-rwxrwxrwx 1 augie augie  2830 Mar  1 14:27 minishell.c
+-rwxrwxrwx 1 augie augie 13184 Mar  1 14:27 run

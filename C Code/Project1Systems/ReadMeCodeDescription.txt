@@ -1,0 +1,2 @@
+This code reads in a text file then compresses it using huffman compression. 
+It reads and counts all of the characters then makes a tree to be used as a key to the huffman compression and decompression.
